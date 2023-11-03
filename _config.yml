@@ -1,6 +1,6 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
-plugins: jekyll-theme-hamilton
+plugins: jekyll-theme-odin
 
 header_pages:
 - index.md
