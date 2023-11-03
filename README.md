@@ -1,1 +1,5 @@
 # tehtavat
+
+title: Jekyll:iä käyttävä sivusto
+description: Tervetuloa sivustolle!
+theme: jekyll-theme-cayman
