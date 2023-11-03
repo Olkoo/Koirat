@@ -1,6 +1,6 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
-theme: hacker
+theme: modernist
 
 header_pages:
 - index.md
