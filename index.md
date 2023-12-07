@@ -3,6 +3,8 @@ layout: default
 title: Koirat
 ---
 
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # Tervetuloa Koirat-sivustolle!
 
 ## Meistä
