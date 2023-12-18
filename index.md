@@ -45,6 +45,7 @@ Bulldoggi on vahva ja rohkea rotu, mutta samalla uskollinen ja lempe채 perheenj�
 Huskyt ovat energisi채 ja itsen채isi채 koiria, jotka ovat per채isin pohjoisista alueista. Niill채 on kaunis turkki ja ne ovat erinomaisia veto- ja valjakkokoiria.
 
 ### Pomeranian
+
 ![Pomeranian](https://img.ilcdn.fi/2v94lMCtLystdDobY46ZtXhoteg=/full-fit-in/920x0/img-s3.ilcdn.fi/03b6eea92ad9db4f12e4672591b4233b9edd5a9b77ecb25ee330dcb1932737ba.jpg)
 
 Saksanpystykorviin kuuluva rotu, joka kiintyy lujasti omistajaansa. Pieni rotu, joka rakastaa ulkoilua ja seuraa omistajaansa osallistuen kaikkeen toimintaan.
