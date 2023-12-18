@@ -9,7 +9,7 @@ title: Koirat
 
 ## Meistä
 
-Koirat-sivusto tarjoaa tietoa eri koiraroduista. Olipa kyseessä uskollinen saksanpaimenkoira tai leikkisä beagle, meillä on se kaikki.
+Koirat-sivusto tarjoaa tietoa eri koiraroduista.
 
 ## Koirarodut
 
